@@ -1,4 +1,3 @@
-package airasia.common;
 
 
 import java.io.FileInputStream;

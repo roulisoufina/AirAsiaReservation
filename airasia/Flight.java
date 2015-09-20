@@ -1,4 +1,3 @@
-package airasia.common;
 import java.io.Serializable;
 import java.math.BigDecimal;
 import java.text.SimpleDateFormat;
